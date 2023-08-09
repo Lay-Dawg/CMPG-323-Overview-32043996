@@ -13,9 +13,9 @@ Project 5: https://github.com/Lay-Dawg/CMPG-323-Overview-32043996/tree/main/Proj
 # Branching Strategy
 A GitHub Flow branching strategy will be used for the projects development.
 **Where:**
-*A Primary branch where all code will be branched off from. This is the Master Branch.*
-*New Branches will be created for bugs and features.
-*When code is reviewed and approved it will be merged to the Master Branch and deployed to the Master Branch.
+*A Primary branch where all code will be branched off from. This is the Master Branch.* <br>
+*New Branches will be created for bugs and features. <br>
+*When code is reviewed and approved it will be merged to the Master Branch and deployed to the Master Branch. <br>
 
 # Git Ignore
 By ignoring certain files when commiting projects to GitHub Repositories, will allow the protection of confidential information from being leaked or tracked for that matter.
