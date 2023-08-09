@@ -12,7 +12,9 @@ Project 5: https://github.com/Lay-Dawg/CMPG-323-Overview-32043996/tree/main/Proj
 
 # Branching Strategy
 A GitHub Flow branching strategy will be used for the projects development. <br>
+<br>
 **Where:** <br>
+<br>
 *A Primary branch where all code will be branched off from. This is the Master Branch.* <br>
 *New Branches will be created for bugs and features. <br>
 *When code is reviewed and approved it will be merged to the Master Branch and deployed to the Master Branch. <br>
