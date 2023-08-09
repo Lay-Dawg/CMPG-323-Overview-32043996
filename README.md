@@ -15,9 +15,10 @@ A GitHub Flow branching strategy will be used for the projects development. <br>
 <br>
 **Where:** <br>
 <br>
-*A Primary branch where all code will be branched off from. This is the Master Branch. <br>
-*New Branches will be created for bugs and features. <br>
-*When code is reviewed and approved it will be merged to the Master Branch and deployed to the Master Branch. <br>
+
+* A Primary branch where all code will be branched off from. This is the Master Branch. <br>
+* New Branches will be created for bugs and features. <br>
+* When code is reviewed and approved it will be merged to the Master Branch and deployed to the Master Branch. <br>
 
 # Git Ignore
 By ignoring certain files when commiting projects to GitHub Repositories, will allow the protection of confidential information from being leaked or tracked for that matter.
