@@ -35,14 +35,14 @@ To make the most of this project, follow these steps:
 
 
 # Progress Report
--Github Administration - Complete
--Prepare the Data Source - Complete
--Project Setup - Complete
--Create the API project - Complete
--Connect the API to the data source - Complete
--Build Device Management Functionality - Complete
--Build Zone Management Functionality - Complete
--Build Category Management Functionality - Complete
--Security - Complete
--Web Api Hosting - Complete
--Project Documentation - Complete
+- **Github Administration** - Complete
+- **Prepare the Data Source** - Complete
+- **Project Setup** - Complete
+- **Create the API project** - Complete
+- **Connect the API to the data source** - Complete
+- **Build Device Management Functionality** - Complete
+- **Build Zone Management Functionality** - Complete
+- **Build Category Management Functionality** - Complete
+- **Security** - Complete
+- **Web Api Hosting** - Complete
+- **Project Documentation** - Complete
